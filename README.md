@@ -4,15 +4,15 @@
 
 ## Task 1: TITANIC SURVIVAL PREDICTION
 
-In my first task, I analyzed the Titanic dataset to predict passenger survival, employing machine learning algorithms and data analysis techniques. Details of my approach and code implementation can be found on my GitHub repository [GitHub]([https://github.com/rajeevbharadwaj9900](https://github.com/rajeevbharadwaj9900/CodeSoft/tree/main/Task%20-%201%20Titanic))).
+In my first task, I analyzed the Titanic dataset to predict passenger survival, employing machine learning algorithms and data analysis techniques. Details of my approach and code implementation can be found on my GitHub repository [GitHub](https://github.com/rajeevbharadwaj9900/CodeSoft/tree/main/Task%20-%201%20Titanic)).
 
 ## Task 2: SALES PREDICTION USING PYTHON
 
-In Task 2, I crafted a predictive model for sales using Python and machine learning techniques. You can explore the code and details on [GitHub]([https://github.com/rajeevbharadwaj9900](https://github.com/rajeevbharadwaj9900/CodeSoft/tree/main/Task%20-%202%20Sales))).
+In Task 2, I crafted a predictive model for sales using Python and machine learning techniques. You can explore the code and details on [GitHub](https://github.com/rajeevbharadwaj9900/CodeSoft/tree/main/Task%20-%202%20Sales)).
 
 ## Task 3: IRIS FLOWER CLASSIFICATION
 
-The final task revolved around Iris Flower Classification, I used machine learning algorithms and data analytics to visualize. Details of my approach and code implementation can be found on my GitHub repository [GitHub]([https://github.com/rajeevbharadwaj9900](https://github.com/rajeevbharadwaj9900/CodeSoft/tree/main/Task%20-%203%20Iris))).
+The final task revolved around Iris Flower Classification, I used machine learning algorithms and data analytics to visualize. Details of my approach and code implementation can be found on my GitHub repository [GitHub](https://github.com/rajeevbharadwaj9900/CodeSoft/tree/main/Task%20-%203%20Iris)).
 
 ## Conclusion
 
